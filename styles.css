@@ -1,6 +1,4 @@
-body {
-border: 1 red;
-}
+
 .reveal:hover {
     opacity: 1;
     transition: opacity 3000ms cubic-bezier(.25,.03,.4,1);
