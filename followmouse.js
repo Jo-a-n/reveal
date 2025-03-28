@@ -9,6 +9,6 @@ document.body.onpointermove = event => {
     
     }, {duration: 800, fill: "forwards"});
 
-    console.log ("I exist");
+    console.log ("I exist and I'm a lemur");
 
 }
